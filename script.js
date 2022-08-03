@@ -62,7 +62,7 @@ class Calculator {
             break
 
             case '*': 
-                computation = previous + current
+                computation = previous * current
             break
 
             case '÷': 
